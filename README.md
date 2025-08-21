@@ -8,3 +8,5 @@ Python packages the need installed are pytorch, numpy, cv2, sklearn, pandas, and
 *** Make sure the constant CALCLUATE_THRESHOLD is set to False, and the constant PREDICT_TEST_DATA is set to True before running test.py ***
 
 *** Changing the line "datapath = 'datasets/animal-clef-2025/metadata.csv'" to "datapath = 'datasets/animal-clef-2025/metadata_small.csv' will run a short subsample of all the data ***
+
+* Note: some files are too large to upload to GitHub that were used in the project. 
