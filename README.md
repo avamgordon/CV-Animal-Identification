@@ -8,4 +8,4 @@ Python packages the need installed are pytorch, numpy, cv2, sklearn, pandas, and
 
 *** Changing the line "datapath = 'datasets/animal-clef-2025/metadata.csv'" to "datapath = 'datasets/animal-clef-2025/metadata_small.csv' will run a short subsample of all the data ***
 
-* Note: some files are too large to upload to GitHub that were used in the project. The main showcase here is the final project report. 
+* Note: some files are too large to upload to that were used in the project. The main showcase here is the final project report. 
